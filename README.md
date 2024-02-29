@@ -6,4 +6,4 @@ This is a simple To-do-list app that collects input from the user and stores the
 **WITH ITEMS**
 ![image](https://github.com/demi05/My-To-Do-List/assets/98643006/f9f06d9a-a985-41be-8319-8c8ecc30d529)
 
-I used raect to create this project. It was a bit challenging but I was able to get around it. This is my first react project and I can't wait to do more.
+I used React to create this project. It was a bit challenging but I was able to get around it. This is my first react project and I can't wait to do more.
