@@ -1,0 +1,72 @@
+body {
+  background-color: hsl(0, 0%, 10%);
+}
+.to-do-list {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  margin-top: 8em;
+}
+h1 {
+  font-size: 4rem;
+  color: white;
+}
+button {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.95em 1.5em;
+  color: white;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  margin-left: 1em;
+}
+.add-button {
+  background-color: hsl(125, 47%, 54%);
+}
+.add-button:hover {
+  background-color: hsl(125, 47%, 44%);
+}
+.delete-button {
+  background-color: hsl(10, 90%, 50%);
+}
+.delete-button:hover {
+  background-color: hsl(10, 90%, 40%);
+}
+.move-button {
+  background-color: hsl(207, 90%, 64%);
+}
+.move-button:hover {
+  background-color: hsl(207, 90%, 54%);
+}
+input[type="text"] {
+  font-size: 1.05rem;
+  padding: 0.8em;
+  border: 2px solid hsla(0, 0%, 80%, 0.5);
+  border-radius: 0.3rem;
+  color: hsla(0, 0%, 0%, 0.5);
+}
+ol {
+  padding: 0;
+}
+li {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 0.9em;
+  background-color: hsl(0, 0%, 97%);
+  margin-bottom: 0.6em;
+  border: 3px solid hsla(0, 0%, 85%, 0.75);
+  border-radius: 0.2rem;
+  display: flex;
+  align-items: center;
+}
+.text {
+  flex: 1;
+  /*this will make the text take up as much space as possible*/
+}
+.delete-button,
+.move-button {
+  padding: 0.4em 0.7em;
+  font-size: 1.4rem;
+  margin-left: 10px;
+}
