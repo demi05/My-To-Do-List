@@ -1,5 +1,6 @@
 This is a simple To-do-list app that collects input from the user and stores them in a list. The user can add as many items as possible, delete items and move an item up or down 
 
+[**Live Site:**](https://my-to-do-list-demi05.netlify.app/)
 **DEFAULT**
 ![image](https://github.com/demi05/My-To-Do-List/assets/98643006/2d21b059-1f13-4f10-9691-4c4a70ac5d08)
 
